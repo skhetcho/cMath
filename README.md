@@ -1,2 +1,2 @@
 # cMath
- First C program
+ First C simple program. Trangles!
