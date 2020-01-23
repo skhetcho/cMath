@@ -1,7 +1,13 @@
 # cMath
  First C simple program. Trangles!
 
-***Compile***
+
+**Compile**
 ```
 gcc main.c -o cMath -lm
+```
+
+**Run**
+```
+./cMath
 ```
